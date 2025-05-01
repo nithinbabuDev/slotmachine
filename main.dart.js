@@ -20112,7 +20112,7 @@ s=s[2]
 p=b[2]
 return A.c([o*m+l*k+j*n,o*r+l*q+j*s,o*p[0]+l*p[1]+j*p[2]],t.n)},
 hN(a,b,c,d){var s=null
-return new A.rr(A.amc(s,s,new A.mw(a,s,s)),d,c,s,b,s)}},B={}
+return new A.rr(A.amc(s,s,new A.mw("assets/"+a,s,s)),d,c,s,b,s)}},B={}
 var w=[A,J,B]
 var $={}
 A.pz.prototype={
@@ -59651,7 +59651,7 @@ j.Ar()
 return new A.GI(j)}}
 A.GI.prototype={
 T(a){var s,r=this,q=null,p=r.d,o=t.c
-p=A.Nj(A.c([B.Gx,A.uL(B.ac,A.c([A.kB(q,new A.uE(p.ay,p.ch,p.CW,p.k1,q),B.A,q,q,new A.fP(q,new A.mS(new A.mw("images/slot/777frame.png",q,q),B.vq),q,q,q,q,B.bD),q,450,q,q,q,q,q),A.a7M(24,A.a7t(!1,!0,A.hN("images/slot/button.png",q,90,q),q,!0,q,q,q,q,q,q,q,q,q,new A.a1V(r),q,q,q,q),q,q,q,q,q,q),r.a4z()],o),B.cZ),A.uA(q,q,20),B.Gw,B.Gv],o),B.bl,B.aK)
+p=A.Nj(A.c([B.Gx,A.uL(B.ac,A.c([A.kB(q,new A.uE(p.ay,p.ch,p.CW,p.k1,q),B.A,q,q,new A.fP(q,new A.mS(new A.mw("assets/images/slot/777frame.png",q,q),B.vq),q,q,q,q,B.bD),q,450,q,q,q,q,q),A.a7M(24,A.a7t(!1,!0,A.hN("images/slot/button.png",q,90,q),q,!0,q,q,q,q,q,q,q,q,q,new A.a1V(r),q,q,q,q),q,q,q,q,q,q),r.a4z()],o),B.cZ),A.uA(q,q,20),B.Gw,B.Gv],o),B.bl,B.aK)
 s=A.bi(B.c.ak(76.5),B.m.L()>>>16&255,B.m.L()>>>8&255,B.m.L()&255)
 return A.ami(!0,new A.u9(A.uL(B.eF,A.c([new A.DP(p,q),new A.e0(B.ym,new A.zv(B.vj,A.kB(q,new A.e0(B.dC,A.u6(A.c([A.aaX(A.u6(A.c([A.a7t(!1,!0,A.u6(A.c([A.aki(B.yK,B.cJ,q),A.uA(q,q,15),A.zD(B.cJ,!0,!0,!1,!1,!1,"Help")],o),B.bP,B.fU),q,!0,q,q,q,q,q,q,q,q,q,new A.a1W(r),q,q,q,q),B.Gu],o),B.oy,B.aK))],o),B.bl,B.aK),q),B.A,s,q,q,q,q,q,q,q,q,q),q),q)],o),B.cZ),B.f4,q),!0)},
 a4z(){return new A.rK(new A.a21(this),null)},
